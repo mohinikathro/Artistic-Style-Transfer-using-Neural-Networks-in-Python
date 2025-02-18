@@ -1,1 +1,1 @@
-# Artistic-Style-Transfer-using-Neural-Networks-in-Python
+# Artistic-style-transfer-using-neural-networks-in-python
